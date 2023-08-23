@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- ejemplo1.xml  AH18059 -->
+<fichero>
+  <ficha id="1" fechaingreso="1/11/2012">
+    <nombre>Antonio</nombre>
+    <apellido>Barbero</apellido>
+    <direccion>Calle de Los Andes, 45</direccion>
+  </ficha>
+  <ficha id="2" fechaingreso="22/08/2023">
+    <carnet>Ah18059</carnet>
+    <nombre>Miguel Antonio</nombre>
+    <apellido>Amaya Hernandez</apellido>
+    <edad>22</edad>
+    <email>ah18059@ues.edu.sv</email>
+  </ficha>
+  <ficha id="3" fechaingreso="22/08/2023">
+    <carnet>prueba carnet</carnet>
+    <nombre>Miguel Antonio 3 ficha</nombre>
+    <apellido>Amaya Hernandez</apellido>
+    <edad>22</edad>
+    <email>ah18059@ues.edu.sv</email>
+    <dui>01i2912i0</dui>
+    <isss>89281820</isss>
+    <afp>a12121212</afp>
+  </ficha>
+</fichero>
