@@ -1,0 +1,12 @@
+/* carnet-ejemplo1.css   SUCARNET  */
+pais {background-color:blue;}
+departamento{background-color:red; display:block;} 
+cabecera {color:white; display:inline;} 
+habitantes {color:yellow; display:inline;}
+altura {color:yellow;font-size:1cm; display:none;}
+moneda{background-color:red; display:block;} 
+codigo_telefonico {color:white; display:inline;} 
+idiomas {color:yellow; display:inline;}
+oficial {color:yellow;font-size:1cm; display:none;}
+autoctono{background-color:red; display:block;} 
+segundo_idioma {color:white; display:inline;} 

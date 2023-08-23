@@ -1,0 +1,37 @@
+{
+	"pais":{
+		"@nombre":"El Salvador",
+		"moneda":"Dólar estadounidense",
+		"codigo_telefonico":"503",
+		"idiomas":{
+			"oficial":"Español",
+			"autoctono":"Náhuatl",
+			"segundo_idioma":"Inglés"
+		},
+		"departamento":[
+			{
+				"@id":"1",
+				"@nombre":"San Salvador",
+				"cabecera":"San Salvador",
+				"habitantes":"1,700,000",
+				"altura":"545 MSNM"
+			},
+			{
+				"@id":"2",
+				"@nombre":"La Libertad",
+				"cabecera":"Santa Tecla",
+				"habitantes":"1,200,000",
+				"altura":"350 MSNM",
+				"area_territorial":"1,652 km²"
+			},
+			{
+				"@id":"3",
+				"@nombre":"La Paz",
+				"cabecera":"Zacatecoluca",
+				"habitantes":"350,000",
+				"altura":"750 MSNM",
+				"area_territorial":"1,224 km²"
+			}
+		]
+	}
+}
